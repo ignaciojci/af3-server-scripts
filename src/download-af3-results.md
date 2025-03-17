@@ -73,7 +73,7 @@ function downloadRange(startIndex, endIndex) {
 ### Example Usage:
 
 ```javascript
-downloadRange(1, 10); // Downloads rows 1 to 10
+downloadRange(1, 20); // Downloads rows 1 to 20
 downloadRange(11, 25); // Downloads rows 11 to 25
 downloadRange(1, 100); // Downloads rows 1 to 100 (if 100 results are visible)
 ```
