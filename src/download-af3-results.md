@@ -24,7 +24,7 @@ By using this script, you acknowledge and agree to the following:
 5.  **Call the `downloadRange` function** with the desired start and end indices. For example:
 
     ```javascript
-    downloadRange(1, 10); // Downloads rows 1 to 10
+    downloadRange(1, 30); // Downloads rows 1 to 30
     ```
 ---
 
