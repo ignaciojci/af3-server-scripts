@@ -21,6 +21,7 @@ By using this script, you acknowledge and agree to the following:
     * In Chrome: Press `Ctrl + Shift + J` (Windows/Linux) or `Cmd + Option + J` (Mac).
     * In Firefox: Press `Ctrl + Shift + K` (Windows/Linux) or `Cmd + Option + K` (Mac).
 4.  **Paste the script** into the console and press `Enter`.
+    * If pasting is blocked, type `allow pasting` into the console and press `Enter`. Then you can paste the script.
 5.  **Call the `downloadRange` function** with the desired start and end indices. For example:
 
     ```javascript
